@@ -17,7 +17,6 @@ namespace Interview.UnitTests.Service
         // This test is a sample test and should be removed!
         public void SampleTestThrowsNotImplementedException()
         {
-            //change
             Action a = () => _interviewService.SimpleReverse("Test");
             Assert.Throws<NotImplementedException>(a);
         }

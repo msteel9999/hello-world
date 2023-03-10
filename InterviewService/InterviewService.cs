@@ -55,6 +55,10 @@ namespace Interview.Services
                     }      
                     capitaliseNext = false;
                 }
+                else
+                {
+                    changedS = changedS.ToLower();
+                }
 
                 if (IsPunctuation(s)) 
                 {

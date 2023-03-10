@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7480d395_002D227b_002D44c9_002D98ec_002Da4494da3757e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SampleTestThrowsNotImplementedException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::40D8C53D-2FB7-43FD-899E-ECD4617C99FC::.NETCoreApp,Version=v2.0::Interview.UnitTests.Service.SimpleReverse_SampleTest.SampleTestThrowsNotImplementedException&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b773c6e6_002D817a_002D4fce_002Dbfb9_002Daaa0767daff4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetAverageEvenNumberOfObjects" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::40D8C53D-2FB7-43FD-899E-ECD4617C99FC::.NETCoreApp,Version=v2.0::Interview.UnitTests.Service.SimpleReverse_SampleTest.When_PunctuatedSentence_ReverseWithPunctuation_ReturnsReversedWithPunctuation&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
